@@ -1,0 +1,28 @@
+
+.container{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    
+}
+
+.center{
+    margin: 100px;
+    width: 60vw;
+    height: 30vh;
+    border: 2px dotted rgb(62, 182, 62);
+    padding: 10px;
+    border-radius: 10px;
+    background-color: teal;
+    box-shadow: 10px 10px 30px 10px ;
+}
+hr{
+    width: 168px;
+   
+}
+#btn{
+    background-color: rgb(100, 172, 244);
+    border: 1px ;
+    border-radius: 5px;
+}
